@@ -17,4 +17,4 @@
 
 ## Hunger:
 
-- eating = hunger - 2, energy - 1
+- eating = hunger - 2, energy + 1
