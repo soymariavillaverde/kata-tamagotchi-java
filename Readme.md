@@ -18,3 +18,7 @@
 ## Hunger:
 
 - eating = hunger - 2, energy + 1
+
+### More details
+
+- https://agilekatas.co.uk/katas/Tamagotchi-Kata
