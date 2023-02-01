@@ -1,5 +1,5 @@
 # Tamagotchi Kata Rules
-
+ //
 ## Sleep:
 
 - energy < 3 = "(-_-)" (cansado)
